@@ -1,6 +1,8 @@
 h1{
+    border: solid #9ec5e0;
+    background-color: black;
     text-align: center;
-    margin-right: auto;
+    margin-bottom: 10%;
   
 }
 
@@ -62,3 +64,12 @@ background-color: lightblue;
      background-color: #9ec5e0;
 }
 
+#enquires1{
+    background-color: #9ec5e0;
+    width: 50%;
+    margin-bottom: 10%;
+}
+
+#contact{
+    margin-bottom: 10%;
+}
