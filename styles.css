@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     margin-right: auto;
-
+  
 }
 
 hr {border-top: 1px solid #000; width:50%;}
@@ -20,5 +20,45 @@ a:link{text-decoration:none;}
   color: #fff;
   text-decoration: none;
     
+}
+
+.enquires{
+background-color: lightblue;
+}
+
+.card1{
+    border-radius: 10%;
+    padding: 30px;
+    margin-bottom: 10%;
+    width: auto;
+     height: auto;
+     background-color: #9ec5e0;
+}
+
+.card2{
+    border-radius: 10%;
+    padding: 30px;
+    margin-bottom: 10%;
+    width: auto;
+     height: auto;
+     background-color: #9ec5e0;
+}
+
+.card3{
+    border-radius: 10%;
+    padding: 30px;
+    margin-bottom: 10%;
+    width: auto;
+     height: auto;
+     background-color: #9ec5e0;
+}
+
+.card4{
+    border-radius: 10%;
+    padding: 30px;
+    margin-bottom: 10%;
+    width: auto;
+     height: auto;
+     background-color: #9ec5e0;
 }
 
